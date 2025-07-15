@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+context-path: /
+
+      
+logging:
+  level:
+    root: DEBUG
+    com.bisht: DEBUG
+    com.springboot: DEBUG   
